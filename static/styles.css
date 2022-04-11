@@ -1,0 +1,19 @@
+body {
+    
+  background-color: rgb(235, 247, 247);
+}
+.color{
+    color: red;
+}
+avbar {
+    background-color: #555353;
+}
+
+a {
+    color: #0d0e0e;
+    align-items: center;
+}
+
+a:hover {
+    color: #1af5f5;
+  }
